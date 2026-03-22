@@ -84,6 +84,10 @@ defaults:
       author_profile: false
       read_time: true
 
+# Navigation
+masthead:
+  nav: "main"
+
 # Author Profile
 author:
   name: "Geoff Scott"
