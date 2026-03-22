@@ -5,7 +5,7 @@ title: "Growth Science"
 excerpt: "Executive Coaching & Advisory"
 header:
   overlay_image: /assets/images/hero-image.jpg
-  overlay_filter: "0.5"
+  overlay_filter: "0.25"
   actions:
     - label: "Schedule a Call"
       url: "https://calendly.com/geoffscott"
