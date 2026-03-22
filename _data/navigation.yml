@@ -1,0 +1,8 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Kindness Flywheel"
+    url: /kindness-flywheel/
+  - title: "Schedule a Call"
+    url: "https://calendly.com/geoffscott"
+    target: "_blank"

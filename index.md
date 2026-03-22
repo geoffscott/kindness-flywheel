@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /
 title: "Growth Science"
 author_profile: false
 ---
@@ -31,13 +32,13 @@ Build systems and practices that make trust, accountability, and sustained perfo
 
 The best organizations I've worked with aren't the ones with the perfect strategy or the smartest people. They're the ones where people trust each other enough to think clearly, take risks, and stay committed through the messy parts of real work.
 
-My approach is grounded in three principles:
+### Three Principles
 
 1. **Trust as Strategy** — Not as sentiment, but as operational practice. Embedded in hiring, decision-making, feedback, and how you measure success.
 
 2. **Clarity Over Comfort** — The conversations that matter most are often uncomfortable. I help you have them.
 
-3. **Grounded in Reality** — Theory is useful. What matters is what actually works in your specific context with your specific people.
+3. **Grounded in Reality** — Theory is useful. What matters is what actually works in your specific context.
 
 ---
 
@@ -45,9 +46,9 @@ My approach is grounded in three principles:
 
 As AI becomes universally available, technical capability is commoditizing. The competitive advantage that lasts is increasingly about organizational culture—how you treat people, how you make decisions together, what you believe is worth doing.
 
-I write and think about this intersection of strategy, culture, and human-centered leadership in a series called **The Kindness Flywheel**.
+**Explore thinking on culture, strategy, and leadership in the AI era.**
 
-[Explore The Kindness Flywheel](#kindness-flywheel-section)
+[The Kindness Flywheel](/kindness-flywheel/)
 
 ---
 
@@ -57,18 +58,8 @@ I work with:
 - **Founders and CEOs** clarifying strategy and building high-trust leadership teams
 - **Executives** navigating organizational change and scaling challenges
 - **Technical leaders** integrating deep technical judgment with people leadership
-- **Boards and advisors** thinking through strategic questions and competitive positioning
+- **Boards and advisors** thinking through strategic questions
 
 ### Let's Talk
 
-The first step is a conversation. [Schedule a time](https://calendly.com/geoffscott) that works for you.
-
----
-
-## Recent Posts
-
-<div id="kindness-flywheel-section"></div>
-
-### The Kindness Flywheel
-
-The latest thinking on culture, strategy, and leadership in the AI era.
+The first step is a conversation. [Schedule a time](https://calendly.com/geoffscott)
