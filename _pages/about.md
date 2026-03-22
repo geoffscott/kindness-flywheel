@@ -1,43 +1,40 @@
 ---
 permalink: /about/
-title: "About The Kindness Flywheel"
+title: "About"
 layout: single
 author_profile: false
 ---
 
-## The Thesis
+## Geoff Scott
 
-As AI becomes universally available, the competitive value of an individual to an organization is no longer primarily measured by talent, knowledge, or experience. Those will be increasingly normalized and commoditized by AI.
+I'm an executive coach, strategic advisor, and CTO building at the intersection of technology, organizational culture, and human-centered leadership.
 
-**What remains defensible and valuable?**
-- How kind they are
-- Their ability to genuinely see and care for other people
-- Their capacity to create belonging and trust
-- How they treat colleagues, customers, anyone they encounter
+### Background
 
-## The Generational Implication
+Over the past 20+ years, I've:
+- Built and scaled engineering teams at startups (Inc 500), growth-stage companies, and Fortune 500 organizations
+- Worked on companies that went through IPO, acquisition, and sustained independent growth
+- Advised founders and executives across 50+ engagements on strategy, product, culture, and operations
+- Served as CTO of OneEleven, a financial wellness platform built on the foundation of trust and genuine coach-member relationships
 
-*If you want your kids to get ahead, teach them to be kind.*
+### What I've Learned
 
-This isn't soft thinking. It's hardball strategy. In a world where technical capability is commoditized, kindness is the rare, defensible, durable competitive asset.
+The best organizations aren't the ones with the smartest people or the fastest execution. They're the ones where:
+- People actually trust each other
+- Decisions are made with clarity about what matters
+- Accountability is earned, not extracted
+- Culture reinforces itself because it's real, not performed
 
-## Who This Is For
+This insight—that culture and trust are competitive advantages in an age of commoditization—is the foundation of everything I do.
 
-- CTOs and tech leaders navigating AI transformation
-- Founders rethinking competitive strategy as traditional moats erode
-- Leaders at the intersection of contemplative practice and business
-- Anyone building organizations and wondering what actually matters
+### Today
 
-## How This Works
+- **CTO** at OneEleven Financial Wellness
+- **Executive Coach** helping leaders navigate AI transformation and rethink organizational strategy
+- **Board Member** at Saranam (spiritual nonprofit) and SIMNY (tech executive association)
+- **Writer** exploring the intersection of culture, strategy, and leadership through The Kindness Flywheel
+- **Open Source Contributor** and perpetual learner
 
-The Kindness Flywheel explores:
-- **Strategy**: Why kindness is a competitive moat in the AI era
-- **Practice**: How it actually shows up in organizations
-- **Implementation**: What changes when you shift from extraction to generosity
-- **Conversation**: Your experience, your observations, your bet
+### Let's Work Together
 
-## About Geoff Scott
-
-Geoff is the CTO at OneEleven Financial Wellness, an executive coach, board member at Saranam and SIMNY, and co-founder of Table. He's been thinking through this thesis for years—across coaching clients, at the board level, and in building OneEleven from the ground up as an organization founded on trust.
-
-This is where he shares what he's learning.
+If you're thinking about organizational culture, competitive strategy, or how to lead when everything is changing, [let's talk](https://calendly.com/geoffscott/intro).

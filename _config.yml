@@ -1,16 +1,16 @@
 # Site Settings
 locale: "en-US"
-title: "The Kindness Flywheel"
+title: "Growth Science"
 title_separator: "-"
-subtitle: "The moat has shifted from what you build to how you treat people"
+subtitle: "Executive Coaching & Advisory"
 name: "Geoff Scott"
-description: "Exploring why kindness is the competitive advantage in the AI era"
+description: "Executive coaching and advisory services grounded in trust, culture, and human-centered leadership"
 url: "https://geoffscott.github.io"
-baseurl: "/kindness-flywheel"
+baseurl: "/growthscience-site"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default"
 
 # Plugins
 plugins:
@@ -45,6 +45,12 @@ exclude:
   - node_modules
   - npm-debug.json
 
+# Collections
+collections:
+  kindness_flywheel:
+    output: true
+    permalink: /kindness-flywheel/:path/
+
 # Front Matter Defaults
 defaults:
   # Posts
@@ -69,11 +75,20 @@ defaults:
       layout: single
       author_profile: false
 
+  # Kindness Flywheel collection
+  - scope:
+      path: ""
+      type: kindness_flywheel
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+
 # Author Profile
 author:
   name: "Geoff Scott"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "CTO at OneEleven. Executive coach. Builder."
+  bio: "CTO at OneEleven. Executive Coach. Builder."
   location: "Hudson Valley, NY"
   links:
     - label: "LinkedIn"
@@ -82,9 +97,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/geoffscott"
-    - label: "Growth Science"
-      icon: "fas fa-globe"
-      url: "https://growthscience.com"
 
 # Footer Links
 footer:
@@ -96,11 +108,5 @@ footer:
       icon: "fab fa-github"
       url: "https://github.com/geoffscott"
 
-# Navigation
-navigation_pages: true
-
 # Search
 search: true
-
-# Custom Colors & Fonts (override in _sass/_variables.scss if needed)
-# Customization guide: See assets/css/custom.css
