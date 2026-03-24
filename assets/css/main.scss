@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+$primary-color: #5652A3;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Purple CTA button in hero */
+.page__hero--overlay .btn--light-outline {
+  background-color: #5652A3;
+  border-color: #5652A3;
+  color: #fff;
+
+  &:hover {
+    background-color: darken(#5652A3, 10%);
+    border-color: darken(#5652A3, 10%);
+  }
+}
