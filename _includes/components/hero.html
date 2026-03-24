@@ -1,0 +1,12 @@
+<div class="gs-hero" style="background-image: url('{{ page.hero.image | relative_url }}');">
+  <div class="gs-hero__overlay"></div>
+  <div class="container">
+    <div class="gs-hero__content">
+      <h1 class="gs-hero__title">{{ page.hero.title }}</h1>
+      <p class="gs-hero__subtitle">{{ page.hero.subtitle }}</p>
+      {% if page.hero.cta_text %}
+      <a href="{{ page.hero.cta_url }}" target="_blank" class="gs-btn-primary">{{ page.hero.cta_text }}</a>
+      {% endif %}
+    </div>
+  </div>
+</div>

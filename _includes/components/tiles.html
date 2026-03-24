@@ -1,0 +1,15 @@
+<div class="gs-tiles">
+  <h2 class="gs-tiles__heading">Approach</h2>
+  <div class="container">
+    <div class="row g-4">
+      {% for principle in page.principles %}
+      <div class="col-md-4">
+        <div class="gs-tiles__card">
+          <h3 class="gs-tiles__card-title">{{ principle.title }}</h3>
+          <p class="gs-tiles__card-text">{{ principle.text }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
