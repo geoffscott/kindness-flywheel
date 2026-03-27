@@ -47,16 +47,6 @@ Through dialogue that helps you see yourself and your situation more clearly —
 
 ---
 
-## Kindness Flywheel
-
-As AI becomes universally available, technical capability is commoditizing. The competitive advantage that lasts is increasingly about organizational culture — how you treat people, how you make decisions together, what you believe is worth doing.
-
-**Thinking on strategy, culture, and leadership in the AI era.**
-
-[Read more →](/kindness-flywheel/)
-
----
-
 ## Let's Talk
 
 The first step is a conversation.
